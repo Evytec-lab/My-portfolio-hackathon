@@ -6,6 +6,7 @@ It introduces who I am, my education background, interests, and highlights this 
 🔗 Project Sections
 - About Me – A brief introduction about myself.
 - Education – My current academic background.
+- skills - html,css,problem solving,critical thinking.
 - Projects – Features this website as my first project.
 - Interests – Lists some of my personal interests.
 - Footer– A closing statement: “Built with confidence”.
@@ -28,4 +29,5 @@ I’m excited to keep learning and improving it as I grow.
 - Clear structure using headings, lists, and paragraphs
 - About Me, Skills, Education, Interests, and Contact sections
 - Footer with the phrase :"built with confidence" 
+
 
